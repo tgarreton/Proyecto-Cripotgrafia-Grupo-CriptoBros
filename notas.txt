@@ -1,0 +1,2 @@
+Santiago= Temperatura 30  C, Sens. termica: 27C, Humedad: 19%
+Valparaiso= Temperatura 25  C, Sens. termica: 23C, Humedad: 39%
